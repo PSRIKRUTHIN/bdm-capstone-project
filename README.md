@@ -17,12 +17,10 @@ This project aims to discover data-driven insights and policy recommendations to
 
 ## 📁 Datasets Used
 - Telangana MSME Dataset (June–Dec 2024)
-- TS-iPASS Industrial Approval Data
 - Industrial Incentives Dataset
 - Factories in Telangana Dataset
 - Industrial Investment & Employment Data
 - Raw Material Availability Data
-- Industrial Power Consumption Data
 
 Source: Telangana Government Open Data Portal
 
